@@ -1,0 +1,93 @@
+1. Company / Project name
+Tashi Protocol
+
+2. Official Links
+Website: https://tashi.gg/
+GitHub: https://github.com/tashigg
+LinkedIn: https://www.linkedin.com/in/amarbedi/
+Twitter: https://x.com/tashiggofficial
+Discord: https://discord.gg/JvR8nAFFfW
+Telegram: @amarbedi
+Whitepaper: https://docs.tashi.gg/
+Pitchdeck: https://docsend.com/view/cnuusyttwtuk8szt
+1 pager: https://docsend.com/view/2hked64n4ysgnuqd
+
+3. Your name
+Amar Singh Bedi
+
+4. Email Address
+tashi@0xlabs.tech
+
+5. Telegram or Wechat of POC
+@Cox_xyz
+
+6. Which funding category are you applying for?
+DePIN
+
+7. Product Stage
+Business Model Validation
+
+8. Introduction to your project
+Tashi Protocol is building the 'Forever Game' Protocol to revolutionize multiplayer gaming through decentralized infrastructure. With games spending over $40 Billion on network costs, Tashi empowers developers with a fully decentralized peer-to-peer multiplayer model that significantly reduces infrastructure costs by ∼ 50%, thereby extending the commercial lifespan of games. Tashi has added a trust layer in the P2P model via its proprietary consensus protocol, with sub-50ms latency (10x faster than other protocols) to ensure fair, cheat-resistant gameplay without relying on centralized servers.
+
+9. What problem are you trying to solve, and why is it important?
+The problem Tashi Protocol is solving is the high network costs and latency issues in Web3 gaming, which hinder the adoption of decentralized gaming. By removing the need for centralized servers and gas fees, Tashi Protocol aims to make decentralized gaming more accessible and inclusive for everyone. This is important because it will accelerate the shift towards decentralized gaming, creating a more inclusive and accessible gaming environment.
+
+10. What is your proposed solution?
+Tashi Protocol's solution is a decentralized gaming infrastructure that runs consensus on every player’s computer, enabling peer-to-peer gaming. This solution significantly lowers entry barriers for developers and gamers alike, as it removes the need for centralized servers and gas fees. By doing so, it allows for a new generation of gamers to enter the Web3 space effortlessly.
+
+11. Any competitions?
+Tashi Protocol does not have direct competition within the Apple ecosystem, but it competes with other Web3 gaming platforms that rely on centralized servers and gas fees.
+
+12. Why Aptos?
+Aptos is chosen as the platform for Tashi Protocol because it offers a high-performance, secure, and scalable blockchain that can support the needs of decentralized gaming. Aptos's focus on security and scalability aligns well with Tashi Protocol's mission to provide a robust, reliable, and efficient gaming infrastructure.
+
+13. Team Background
+- Amar Singh Bedi - CEO
+  Full Name: Amar Singh Bedi
+  Title: CEO
+  LinkedIn URL: https://www.linkedin.com/in/amarbedi/
+  Brief History: 15+ years of experience at high-tech and scaling startups.
+- Jay McCarthy - CBO
+  Full Name: Jay McCarthy
+  Title: CBO
+  LinkedIn URL: https://www.linkedin.com/in/jay-mccarthy-319736202/
+  Brief History: 30+ years of capital markets experience.
+- Ken Anderson - CTO
+  Full Name: Ken Anderson
+  Title: CTO
+  LinkedIn URL: https://www.linkedin.com/in/kenthejr/
+  Brief History: Founding member of Hedera, 20+ years of experience building high-tech products.
+
+14. If you have multiple founders, how did you meet?
+The founding team met through a mutual interest in blockchain technology and decentralized gaming. They have been collaborating on various projects and have a shared vision for building a robust, decentralized gaming infrastructure.
+
+15. How many projects have you worked on together? How are responsibilities divided among the founders?
+The founding team has worked on multiple projects together, including developing decentralized gaming protocols and blockchain-based solutions. Responsibilities are divided as follows:
+- Amar Singh Bedi (CEO): Leads the overall strategy, product vision, and ensures the company stays aligned with its mission.
+- Jay McCarthy (CBO): Focuses on fundraising, capital markets, and ensuring financial stability and growth.
+- Ken Anderson (CTO): Oversees the technical development, ensuring the protocol is robust and secure, and drives the development of the consensus engine.
+
+16. Is the founding team committed full-time to this project? If not, please explain any other commitments and how much time each founder currently spends on the project.
+Yes, the founding team is committed full-time to this project. Each founder dedicates their full professional time to Tashi Protocol.
+
+17. Where are the founders based?
+Amar Singh Bedi: Based in New York, USA
+Jay McCarthy: Based in San Francisco, USA
+Ken Anderson: Based in New York, USA
+
+18. Budget proposal with milestones (The grant amount is usually 10k~50k. Please set up your budget proposal with milestones and estimated completion time.)
+Grant Amount: $45,000
+Milestones and Budget Breakdown:
+Milestone 1: State Proof Exchange (20,000)
+Description: Develop and implement a state proof exchange system to ensure secure and efficient state transitions.
+Estimated Completion Time: 2 months
+Milestone 2: Contract Template Library (20,000)
+Description: Create a comprehensive contract template library to facilitate faster and more secure contract deployments.
+Estimated Completion Time: 2 months
+Milestone 3: Documentation (5,000)
+Description: Develop detailed documentation, tutorials, and guides to help developers and gamers understand and adopt Tashi Protocol.
+Estimated Completion Time: 1 month
+
+19. Does the core team need office space support from Aptos Space (HK)?
+No, the core team does not require office space support from Aptos Space (HK). The team is fully remote and works from their respective locations.
